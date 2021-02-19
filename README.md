@@ -3,10 +3,6 @@
 # EJECUTAR EL ARCHIVO
 $ python3 test1.py
 
-
-# EJECUTAR EL ARCHIVO
-$ python3 test1.py
-
 # CONSOLA
 $ "Introduce el numero de veces a evaluar: " ## es cuantas veces se va a reperir el flujo
 
